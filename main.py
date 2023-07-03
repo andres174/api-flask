@@ -1,8 +1,8 @@
 from flask import Flask
 from flask_restful import Resource, Api, reqparse
 import pandas as pd
-import ast
 import json
+
 
 app = Flask(__name__)
 api = Api(app)
@@ -11,6 +11,7 @@ api = Api(app)
 users_path = './data/users.csv'
 #/locations
 locs_path = './data/locations.csv'
+
 class Users(Resource):
     def get(self):
         data = pd.read_csv(users_path)
