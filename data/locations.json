@@ -1,0 +1,37 @@
+{
+    "0": {
+        "locationId": "1",
+        "name": "Cafe de Flore",
+        "rating": 4.0
+    },
+    "1": {
+        "locationId": "2",
+        "name": "Cafe Tabac",
+        "rating": 4.6
+    },
+    "2": {
+        "locationId": "3",
+        "name": "Rosslyn Coffee",
+        "rating": 4.8
+    },
+    "3": {
+        "locationId": "4",
+        "name": "Three Wheels Coffee",
+        "rating": 4.6
+    },
+    "4": {
+        "locationId": "5",
+        "name": "Roasting Plant Coffee",
+        "rating": 4.4
+    },
+    "5": {
+        "locationId": "6",
+        "name": "Distrikt coffee",
+        "rating": 4.4
+    },
+    "6": {
+        "locationId": "7",
+        "name": "Westberlin",
+        "rating": 4.4
+    }
+}

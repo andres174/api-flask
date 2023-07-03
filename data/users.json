@@ -1,0 +1,22 @@
+{
+    "0": {
+        "userId": "a1b",
+        "name": "Joe",
+        "city": "Paris"
+    },
+    "1": {
+        "userId": "a2c",
+        "name": "Jenny",
+        "city": "London"
+    },
+    "2": {
+        "userId": "b1b",
+        "name": "Jack",
+        "city": "London"
+    },
+    "3": {
+        "userId": "b2c",
+        "name": "Jill",
+        "city": "Berlin"
+    }
+}
